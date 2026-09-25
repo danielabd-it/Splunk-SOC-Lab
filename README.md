@@ -1,6 +1,6 @@
 # SOC Detection & Incident Response Homelab
 
-A cybersecurity homelab for practicing SOC monitoring, detection, and incident response in an isolated Active Directory environment.
+A personal cybersecurity homelab for practicing SOC monitoring, detection, and incident response in an isolated Active Directory environment. 
 
 ## Lab
 
