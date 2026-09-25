@@ -31,21 +31,6 @@ A personal cybersecurity homelab for practicing SOC monitoring, detection, and i
 - Event log clearing
 - Data staging and exfiltration
 
-## Detection
-
-A custom Python tool analyzes exported security logs and identifies suspicious activity such as:
-
-- Password attacks
-- Kerberoasting
-- PowerShell activity
-- Scheduled tasks
-- Account changes
-- Log clearing
-- Data staging
-- File uploads
-- Network beaconing
-- Large outbound transfers
-
 ## Status
 
 **Work in Progress**
