@@ -1,4 +1,4 @@
-# Active Directory SOC Homelab
+# Splunk SOC Homelab
 
 A hands-on cybersecurity homelab built to simulate a small enterprise Active Directory environment and practice security monitoring, log collection, SIEM investigation, and detection of credential-based attacks.
 
