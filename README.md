@@ -2,7 +2,7 @@
 
 A hands-on cybersecurity homelab built to simulate a small enterprise Active Directory environment and practice security monitoring, log collection, SIEM investigation, and detection of credential-based attacks.
 
-The primary scenario implemented in this version of the lab was a **controlled password-spray simulation** against a Windows Active Directory domain. Windows Security Event Logs were centralized into **Splunk**, where the resulting failed authentication activity was investigated and correlated to identify suspicious login behavior.
+This lab was implemented as a **controlled password-spray simulation** against a Windows Active Directory domain. Windows Security Event Logs were centralized into **Splunk**, where the resulting failed authentication activity was investigated and correlated to identify suspicious login behaviour.
 
 ## Project Overview
 
